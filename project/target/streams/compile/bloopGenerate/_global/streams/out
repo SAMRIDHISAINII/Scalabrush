@@ -1,0 +1,4 @@
+[debug] [scalawork-build] Classpath dependencies List()
+[debug] [scalawork-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scalawork-build' to '/Users/samridhi/scalawork/project/.bloop/scalawork-build.json'
+[success] Generated .bloop/scalawork-build.json

@@ -1,0 +1,4 @@
+[debug] [scalawork-test] Classpath dependencies List()
+[debug] [scalawork-test] Dependencies from configurations List(scalawork)
+[debug] Bloop wrote the configuration of project 'scalawork-test' to '/Users/samridhi/scalawork/.bloop/scalawork-test.json'
+[success] Generated .bloop/scalawork-test.json

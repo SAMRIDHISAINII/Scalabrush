@@ -1,0 +1,104 @@
+2023.04.02 03:44:43 INFO  Started: Metals version 0.11.11 in workspace '/Users/samridhi/scalawork' for client Visual Studio Code 1.67.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/samridhi/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.02 03:44:44 INFO  time: initialize in 0.77s
+2023.04.02 03:44:49 WARN  Build server is not auto-connectable.
+2023.04.02 03:44:53 INFO  running '/Library/Java/JavaVirtualMachines/jdk-16.0.1.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/kr/5q4cq4dj5h5c38r4gcz4v3_h0000gn/T/metals13175753879659721675/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.04.02 03:44:53 WARN  no build target for: /Users/samridhi/scalawork/project/project/metals.sbt
+2023.04.02 03:44:53 WARN  no build target for: /Users/samridhi/scalawork/project/metals.sbt
+2023.04.02 03:44:53 INFO  skipping build import with status 'Started'
+2023.04.02 03:44:53 ERROR [info] [launcher] getting org.scala-sbt sbt 1.8.2  (this may take some time)...
+2023.04.02 03:45:03 INFO  no build target found for /Users/samridhi/scalawork/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.02 03:45:13 ERROR [info] [launcher] getting Scala 2.12.17 (for sbt)...
+2023.04.02 03:45:15 INFO  [info] welcome to sbt 1.8.2 (Oracle Corporation Java 16.0.1)
+2023.04.02 03:45:19 INFO  [info] loading settings for project scalawork-build-build from metals.sbt ...
+2023.04.02 03:45:21 INFO  [info] loading project definition from /Users/samridhi/scalawork/project/project
+2023.04.02 03:45:27 INFO  [info] loading settings for project scalawork-build from metals.sbt ...
+2023.04.02 03:45:27 INFO  [info] loading project definition from /Users/samridhi/scalawork/project
+2023.04.02 03:45:37 WARN  no build target for: /Users/samridhi/scalawork/src/main/scalais.worksheet.sc
+2023.04.02 03:45:37 INFO  [success] Generated .bloop/scalawork-build.json
+2023.04.02 03:45:37 INFO  [success] Total time: 9 s, completed 02-Apr-2023, 3:45:37 am
+2023.04.02 03:45:41 INFO  [info] loading settings for project scalawork from build.sbt ...
+2023.04.02 03:45:41 INFO  [info] set current project to hello-world (in build file:/Users/samridhi/scalawork/)
+2023.04.02 03:45:47 INFO  [success] Generated .bloop/scalawork.json
+2023.04.02 03:45:47 INFO  [success] Generated .bloop/scalawork-test.json
+2023.04.02 03:45:47 INFO  [success] Total time: 6 s, completed 02-Apr-2023, 3:45:47 am
+2023.04.02 03:45:48 INFO  time: ran 'sbt bloopInstall' in 54s
+2023.04.02 03:45:48 INFO  Attempting to connect to the build server...
+2023.04.02 03:45:48 INFO  Setting up current java home /Library/Java/JavaVirtualMachines/jdk-16.0.1.jdk/Contents/Home in /Users/samridhi/.bloop/bloop.json
+2023.04.02 03:46:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/samridhi/scalawork/.metals/bsp.trace.json or /Users/samridhi/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.04.02 03:46:14 INFO  no build target found for /Users/samridhi/scalawork/src/main/scalais.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.02 03:46:14 INFO  time: evaluated worksheet 'scalais.worksheet.sc' in 37s
+2023.04.02 03:46:20 INFO  Attempting to connect to the build server...
+2023.04.02 03:46:20 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk-16.0.1.jdk/Contents/Home defined at /Users/samridhi/.bloop/bloop.json
+2023.04.02 03:46:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/samridhi/scalawork/project/.metals/bsp.trace.json or /Users/samridhi/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.04.02 03:46:22 INFO  time: Connected to build server in 34s
+2023.04.02 03:46:22 INFO  Connected to Build server: Bloop v1.5.6
+2023.04.02 03:46:23 INFO  time: Imported build in 1.37s
+2023.04.02 03:46:47 INFO  time: indexed workspace in 24s
+2023.04.02 03:46:48 WARN  no build target for: /Users/samridhi/scalawork/src/main/scalais.worksheet.sc
+2023.04.02 03:46:56 INFO  time: code lens generation in 7.49s
+2023.04.02 03:47:20 INFO  no build target found for /Users/samridhi/scalawork/src/main/scalais.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.8
+2023.04.02 03:47:21 INFO  time: evaluated worksheet 'scalais.worksheet.sc' in 18s
+Apr 02, 2023 3:47:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 218
+2023.04.02 03:47:50 WARN  no build target for: /Users/samridhi/scalawork/src/main/scalais.worksheet.sc
+2023.04.02 03:47:52 INFO  time: evaluated worksheet 'scalais.worksheet.sc' in 2.23s
+2023.04.02 03:50:50 WARN  no build target for: /Users/samridhi/scalawork/src/main/scalais.worksheet.sc
+2023.04.02 03:50:51 INFO  time: evaluated worksheet 'scalais.worksheet.sc' in 0.95s
+2023.04.02 03:52:11 INFO  compiling scalawork (1 scala source)
+Apr 02, 2023 3:52:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 332
+Apr 02, 2023 3:52:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 333
+Apr 02, 2023 3:52:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 334
+2023.04.02 03:52:42 INFO  time: compiled scalawork in 31s
+Apr 02, 2023 3:55:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 795
+Apr 02, 2023 3:57:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1215
+Apr 02, 2023 4:13:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1391
+Apr 02, 2023 4:13:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1551
+Apr 02, 2023 4:16:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1992
+2023.04.02 04:16:46 WARN  Using indexes to guess the definition of Int
+Apr 02, 2023 4:17:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2077
+Apr 02, 2023 4:18:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2236
+Apr 02, 2023 4:18:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2308
+Apr 02, 2023 4:24:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2750
+Apr 02, 2023 5:16:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3278
+Apr 02, 2023 10:39:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5545
+Apr 02, 2023 10:39:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5547
+Apr 02, 2023 10:39:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5553
+Apr 02, 2023 11:23:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5902
+Apr 02, 2023 11:25:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6375
+Apr 02, 2023 11:26:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6537
+Apr 02, 2023 11:27:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6770
+something's wrong: no file:///Users/samridhi/scalawork/src/main/scalais.worksheet.sc in Int => <error>RangePosition(file:///Users/samridhi/scalawork/src/main/scalais.worksheet.sc, 2060, 2064, 2074)
+Apr 02, 2023 11:28:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7186
+2023.04.02 11:28:57 WARN  no build target for: /Users/samridhi/scalawork/src/main/scalais.worksheet.sc
+2023.04.02 11:28:59 INFO  time: evaluated worksheet 'scalais.worksheet.sc' in 1.86s
+Apr 02, 2023 11:48:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8766
+Apr 02, 2023 11:50:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8907
