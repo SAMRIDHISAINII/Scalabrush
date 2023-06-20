@@ -14,6 +14,7 @@
 
 //     println(num+num2)
 
+
     // we can use the val as well to make it concurrent it becomes constant
 // class object in scala
 // when u see 8+7
